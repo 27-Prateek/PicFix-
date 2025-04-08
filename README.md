@@ -1,2 +1,2 @@
 # PicFix-
-PicFic an offline photoeditng platform 
+PicFix an offline photoeditng platform 
